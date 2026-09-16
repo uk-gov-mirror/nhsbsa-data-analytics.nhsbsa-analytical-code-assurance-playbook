@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "traanscript for gap analysis presentation.html",
+    "href": "traanscript for gap analysis presentation.html",
+    "title": "Analytical Code Assurance",
+    "section": "",
+    "text": " AI-generated content may be incorrect  Nadine Morrisroe started transcription SS\nSeamus Sands 0 minutes 3 seconds0:03 Seamus Sands 0 minutes 3 seconds is currently, how it currently is situated and then what changes would need to be made to bring it up to speed with the changes that have been made on a number of the different standard documents within the UK government. Books like the Magenta book, Seamus Sands 0 minutes 22 seconds and the Orange Book and Aqua Book and the likes and also the Gov S010 document as well, the functional requirements. So what I have done is I’ve tried to lay out slides in a Seamus Sands 0 minutes 42 seconds gap analysis approach. There is a spreadsheet that has the lower level detail. So first of all, the first four slides kind of set the scene. They talk about like what is the playbook today, what the refresh one will look like and how to read the change. And then there’s several slides that will walk through the playbook. Seamus Sands 1 minute 4 seconds on a section by section time. Okay. And then I will also have, there’s 10 diagrams, so nine of which are provided, but I’ve also added in one which is a wee bit about the operational model that in terms of the analytical governance operating model. And just to kind of give you an idea of what that means in terms of Seamus Sands 1 minute 26 seconds It’s one of the gaps that I had highlighted in the spreadsheet. In terms of the vocab that we’re going to use, there is the keep, update, replace, add or remove. And for this, this is basically highlighting. Seamus Sands 1 minute 45 seconds what the gaps will be and if there’s anything that we need to replace and it kind of speaks for itself. And then what I’ve done is I’ve also got this aligns updates or replaces and this is kind of more focused on some of the deliverables, or sorry, some of the NHS BSA documents that Seamus Sands 2 minutes 5 seconds Nadine and Abigail have provided. And that’s just to make sure that if there is any alignment or any kind of updates that need to be done, then that will be covered as well. Seamus Sands 2 minutes 20 seconds So then if we go to this first one, so this is about how the… Seamus Sands 2 minutes 30 seconds The current playbook currently is so. Seamus Sands 2 minutes 35 seconds If we look at it from what, when did I take a copy of this? I’ve updated it based on the 11th of September, 11th of June was the last time I believe that there was a published version. I updated it, like I took a copy of it on last Thursday, I think it was, was the last time I doubled. Seamus Sands 2 minutes 56 seconds double cheque that there was no changes. I have now got the PARTNERSHIP access, so thank you very much for sorting that out. Seamus Sands 3 minutes 5 seconds There is 17 files within that kind of repo. There’s nearly 4,000 words across them, and there’s three different standards that’s been cited. But I did notice that there was a couple of files that were not on the navigation tree. Seamus Sands 3 minutes 24 seconds So there’s ones that were off the navigation. And so that was ones that I also included in the gap analysis because there was content within it that was useful. OK, and that might be because you were working on it and you hadn’t published it and it’s sitting there in the background. But whenever you look at the playbook running on the site, it has Seamus Sands 3 minutes 46 seconds a couple of pages that weren’t on the navigation. So the next thing is kind of what is good and stays, what is missing and why. So the seven principles, five of them, gov S, zero, 10s, Seamus Sands 4 minutes 6 seconds own principles as such, and they’re nearly forbidden. And we talked about this a bit, Nadine, which is that it was to try and keep them in that consistent kind of language that made sense rather than being overly, what’s the word, Seamus Sands 4 minutes 25 seconds confusing and I’m kind of in a very much a standards document language that doesn’t necessarily make it clear what it is you’re trying to achieve at times. Then there is the seven assurance factors and these substantially come from the act Seamus Sands 4 minutes 44 seconds AquaBook’s own list, which is great because it means that whenever we’re looking at the AquaBook and we’re looking at the Gov S10, there’s a lot of this already in it, and so that makes it easier whenever you’re highlighting what’s missing and what has to be updated. You do have 9 scope. Seamus Sands 5 minutes 3 seconds open bullets, so where there’s different analyst duties. So it is very much an end-to-end process. In terms of rigor, uncertainty, and model types, there are some sound and detailed information. Seamus Sands 5 minutes 22 seconds And I believe it’s the uncertainty and the model types that were unreachable. So they’re the ones that were not on the navigation and that might be because they were being developed. There is the review stage. Nadine, I pulled this one out in particular because you’ve mentioned it. And this is the only place that the codes value pillar appears. Seamus Sands 5 minutes 42 seconds And that’s where I’ve kept that review column in RSI stage in place. So I’ve then kind of give you a quick highlight of what’s missing and why. So first of all, really good document. The only real difference is that the standards have been updated since it was written. Seamus Sands 6 minutes 2 seconds And so because of that, there’s been changes. So the Aqua book was reissued on the 30th of July 2025. The Code of Practise was updated on the 30th of October 2025 to version three. The Green and Magenta books were reissued in 2026 and the Magenta book, I believe, was Seamus Sands 6 minutes 22 seconds only a couple of weeks ago, that it was actually reissued. And then the draught policy risk framework and the risk sheet, none of them originally existed and that’s the work that yourself, Nadine and Abigail and that have done. And so these are some of the main reasons why we’re looking at this and what information needs to be Seamus Sands 6 minutes 44 seconds integrated in to make the book more up to date. Now, Seamus Sands 6 minutes 51 seconds The refresh playbook at a glance, this kind of looks very busy and can be a bit confusing. But basically what I’ve done is I’ve just numbered each of these sections. A lot of these numbers of the sections actually correspond with the standards. And so that’s to try and keep it consistent. So Seamus Sands 7 minutes 11 seconds is just a bit of how to use this playbook, but then the rest of it will kind of correspond. So you have things like section one, why analytical quality matters. So keeping that, but the standards landscape is being replaced and it’s being replaced with a more up-to-date version. Seamus Sands 7 minutes 31 seconds You also then have the rules, responsibilities, and governance. That requires an update, and we’ll touch on that on further slides on what that looks like and what some of those updates will need to be. The same with the analytical lifecycle, it needs to be updated. And then you can see in blue here some of the additional information that needs to be added. Seamus Sands 7 minutes 51 seconds So deciding your assurance level, doing the work, business critical analysis, ethics and transparency, tools, templates and downloads and appendices. And this is just to try and make sure that there is proper linked out references to some of the content that has been created as well. Seamus Sands 8 minutes 12 seconds So, in terms of the documents I’ve mentioned, coming from yourselves. Seamus Sands 8 minutes 19 seconds In terms of… Seamus Sands 8 minutes 22 seconds The diagrams, so this is where I have added in some of the diagrams that you would have seen. I have also updated the folder to have a draw.io folder and a PNG folder. The draw.io folder will be the most up to date. I will make sure. Seamus Sands 8 minutes 41 seconds Make sure that I haven’t made any changes in the last, I’ve done a few changes in this morning, just correcting some of the lines and that. But this basically shows you what is being kept, what’s being updated, what’s been added and what’s been replaced. And it’s to try and give this clear picture of Seamus Sands 9 minutes of what is actually happening. And the idea behind this is a picture on a page as such. And if any of you have used Draw IO, it’s a free open source tool that you can use and Seamus Sands 9 minutes 19 seconds I can share my screen in a second and show you how to use it, or at least how to open the files. Seamus Sands 9 minutes 29 seconds So the next thing is then. Seamus Sands 9 minutes 32 seconds Oops, I changed my screen there for a second. The next one is then what I’ve called diagram 4 of 10. So each of these diagrams has a bit of an ID to them. This one here is about… Seamus Sands 9 minutes 46 seconds the findings and the number of rows of changes that’s going to be made. Okay, so that’s the adding, removing, etc. And if we look at this, it sounds like a lot, but I’ve literally broken it down to a line by line change and page by page, just to make sure that we Seamus Sands 10 minutes 4 seconds we have the detail there and that it can be mapped quite granularly. So the detail here is basically saying that the same sex findings came back out of a page by page read. So initially whenever I was presenting some of the changes that we had done. Seamus Sands 10 minutes 25 seconds done to Nadine and to Abigail. We looked at it very much at a decision level, a higher level. And so a lot of those same findings are still here. It’s just that we’ve done it at a lower level. And that’s to try and make sure that when we’re looking at each of the Seamus Sands 10 minutes 44 seconds the pages on the spreadsheet or each of the line items, we know what we’re looking at. So the 53 walk the playbook. So this is where it’s the page by page. Each finding has a page and a sentence. There’s 44 have no page, but these are new. Seamus Sands 11 minutes 4 seconds content to be added in. And the justification around this is that if you go through the playbook page by page, you can actually see, okay, this is what we currently have, this is what we’re currently going to, or this is what needs to be changed and Seamus Sands 11 minutes 24 seconds This is an idea of what it could look like. Okay, so I’ve made some Seamus Sands 11 minutes 29 seconds possible wording and that in there as well. Seamus Sands 11 minutes 34 seconds Now, the next slide is touching on how to use this playbook. And this is really just to kind of say, okay, again, how…\nNadine Morrisroe 1 hour 17 minutes 47 seconds1:17:47 Nadine Morrisroe 1 hour 17 minutes 47 seconds Thanks so much.\nAbigail Armstrong 1 hour 17 minutes 48 seconds1:17:48 Abigail Armstrong 1 hour 17 minutes 48 seconds Great, thank you. SS Seamus Sands 1 hour 17 minutes 49 seconds1:17:49 Seamus Sands 1 hour 17 minutes 49 seconds Perfect, no worries. You too, and lovely meeting you, Matt and Alistair.\nNadine Morrisroe 1 hour 17 minutes 49 seconds1:17:49 Nadine Morrisroe 1 hour 17 minutes 49 seconds Yep, have a good afternoon. Thank you.\nAlistair Jones 1 hour 17 minutes 52 seconds1:17:52 Alistair Jones 1 hour 17 minutes 52 seconds Thank you.\nMatthew Wilson 1 hour 17 minutes 52 seconds1:17:52 Matthew Wilson 1 hour 17 minutes 52 seconds Yeah, thank you. Matthew Wilson 1 hour 17 minutes 55 seconds Thank you. Bye now. Bye.\nAlistair Jones 1 hour 17 minutes 56 seconds1:17:56 Alistair Jones 1 hour 17 minutes 56 seconds And you. Cheers.\nNadine Morrisroe 1 hour 17 minutes 56 seconds1:17:56 Nadine Morrisroe 1 hour 17 minutes 56 seconds See you later. Yes. Bye. Nadine Morrisroe 1 hour 17 minutes 57 seconds Thanks, bye.  Nadine Morrisroe stopped transcription"
+  },
+  {
     "objectID": "CONTRIBUTE.html",
     "href": "CONTRIBUTE.html",
     "title": "How to contribute",
@@ -40,123 +47,6 @@
     "title": "How to contribute",
     "section": "",
     "text": "Thank you to the NHS England RAP Community of Practice from which this guide took heavy inspiration!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This Playbook has been developed by the NHSBSA to provide guidance for quality assuring code to produce analysis."
-  },
-  {
-    "objectID": "guidance/07-open-source/index.html",
-    "href": "guidance/07-open-source/index.html",
-    "title": "Open Source",
-    "section": "",
-    "text": "Open source code can be viewed, downloaded and used by anyone. This guide outlines the benefits of publishing analytical code as open source and how to do it within the NHSBSA.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Open Source"
-    ]
-  },
-  {
-    "objectID": "guidance/07-open-source/index.html#at-a-glance",
-    "href": "guidance/07-open-source/index.html#at-a-glance",
-    "title": "Open Source",
-    "section": "",
-    "text": "Open source code can be viewed, downloaded and used by anyone. This guide outlines the benefits of publishing analytical code as open source and how to do it within the NHSBSA.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Open Source"
-    ]
-  },
-  {
-    "objectID": "guidance/07-open-source/index.html#what-is-open-source",
-    "href": "guidance/07-open-source/index.html#what-is-open-source",
-    "title": "Open Source",
-    "section": "What is open source?",
-    "text": "What is open source?\nOpen source is a way of developing and distributing software. The code can be viewed, downloaded and used by anyone. Anyone can contribute to open source code (pending approval by the code owner via Pull Requests) which promotes collaboration across teams and organisations. Open source code is often hosted on platforms like GitHub, where it can be shared and collaborated on by a community of developers. Open source code is typically licensed under an open source licence, which specifies how others can use, modify and share the code.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Open Source"
-    ]
-  },
-  {
-    "objectID": "guidance/07-open-source/index.html#why-publish-analytical-code-as-open-source",
-    "href": "guidance/07-open-source/index.html#why-publish-analytical-code-as-open-source",
-    "title": "Open Source",
-    "section": "Why publish analytical code as open source?",
-    "text": "Why publish analytical code as open source?\nOpen source code:\n\nallows others to see how analyses are performed, increasing transparency and trust in results\nshows the workings behind published analyses (reports, data, dashboards, etc), making it easier to verify and reproduce results\nenables others to reuse code which increases value\nopen review and feedback help identify issues and improve code\nencourages collaboration and knowledge sharing across teams and organisations",
-    "crumbs": [
-      "Playbook Home Page",
-      "Open Source"
-    ]
-  },
-  {
-    "objectID": "guidance/07-open-source/index.html#how-to-publish-analytical-code-openly",
-    "href": "guidance/07-open-source/index.html#how-to-publish-analytical-code-openly",
-    "title": "Open Source",
-    "section": "How to publish analytical code openly",
-    "text": "How to publish analytical code openly\nThere are two main routes to open-sourcing analytical code:\n\nWork in the open from the start: this is the ideal scenario which maximises the benefits from open-source, but it is usually only suitable when you are working on open, published datasets - for example, using data from the NHSBSA Open Data Portal.\nRetrospectively publish closed-source codebases: many of the datasets we analyse at the NHSBSA are not publicly available and so to protect sensitive and confidential data, we often work within secure internal environments. It is still recommended to retrospectively publish your analytical code, although this may need additional review (see below for details).\n\n\nPublishing workflow\nTo publish analytical code:\n\nInclude a file named LICENCE (British English spelling) with the complete licence text in your repository, not just a statement in the README.\nDocument your code and provide clear instructions for use, dependencies, and purpose. Ensure the code itself is written to be easy to understand and maintain, and include a CONTRIBUTE file to guide others who may want to contribute.\nHost your code on the NHSBSA Data Analytics GitHub.\nFollow NHSBSA policies and approval processes for open source coding.\nUse secret management systems and keep credentials out of repositories. Make sure you check the history as well as the current version of the codebase! See GOV.UK guidance.\nCheck for sensitive information: Ensure no personal, confidential, or proprietary data is included. Make sure you check the history as well as the current version of the codebase!\n\nSee the GOV.UK Service Manual and NHS Digital RAP Community guidance for detailed steps and best practices.\n\n\nRetrospective open sourcing\nThere are additional considerations if you are retrospectively open sourcing your code (after having developed it closed source).\n\nThe NHSBSA Retrospective Open Sourcing Guidance (only visible to internal NHSBSA colleagues).\nWhether you would benefit from using a ‘fit-for-publishing checklist’ to ensure your code is ready for release, including internal and external review steps. See the NHS Digital RAP Community Fit for publishing checklist.\n\n\n\nLicensing open code\nWhen publishing code or content openly, it is essential to include a clear licence to specify how others can use, modify, and share your work. Open code should include a LICENCE file, with a copyright notice where the year should reflect first publication, or a range if significantly updated.\nThe NHSBSA uses two types of licences, to serve different purposes:\n\nFor software/code use the Apache 2 Licence. This is generally the licence to use in the code repository via the LICENCE file.\nFor published content, documentation, and data use the Open Government Licence v3.0 (OGL v3). A link to the OGL v3 licence should be included in the footer or main documentation of published outputs. The NHSBSA uses a standard footer format which includes the appropriate licencing information and can be reused across NHSBSA products:\n\nRShiny reports and dashboards\nWebsites created using Markdown and Quarto (including this Playbook!)\nWebsites created using HTML and JavaScript\n\n\nFor more details on licencing, see the NHSBSA Digital Playbook.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Open Source"
-    ]
-  },
-  {
-    "objectID": "guidance/06-documented/index.html",
-    "href": "guidance/06-documented/index.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "AF Duck book: Code documentation\nAF Duck book: Project documentation\nNHSBSA DDaT playbook: Licensing software or code\nNHSBSA DDaT playbook: Standard code repository files",
-    "crumbs": [
-      "Playbook Home Page",
-      "Documentation"
-    ]
-  },
-  {
-    "objectID": "guidance/06-documented/index.html#at-a-glance",
-    "href": "guidance/06-documented/index.html#at-a-glance",
-    "title": "Documentation",
-    "section": "At a glance",
-    "text": "At a glance\nDocumentation is written information that explains what your analytical project does, why decisions were made, and how others can use and reproduce your work. This guide outlines the benefits of quality documentation and how to create and maintain it within the NHSBSA.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Documentation"
-    ]
-  },
-  {
-    "objectID": "guidance/06-documented/index.html#what-is-documentation",
-    "href": "guidance/06-documented/index.html#what-is-documentation",
-    "title": "Documentation",
-    "section": "What is documentation?",
-    "text": "What is documentation?\nDocumentation is written information that explains what your analytical project does, why decisions were made, and how others can use and reproduce your work.\nYou should document:\n\na project’s purpose and scope\nhow to setup the project and install any dependencies\nhow to configure, use and run the code, including analytical pipelines, dashboards or webapps\noutputs from running the code and how to interpret them\nassumptions and limitations, how they are implemented and how they affect results\nkey decisions and changes across a project lifecycle\nquality assurance logs",
-    "crumbs": [
-      "Playbook Home Page",
-      "Documentation"
-    ]
-  },
-  {
-    "objectID": "guidance/06-documented/index.html#why-should-we-document-our-code",
-    "href": "guidance/06-documented/index.html#why-should-we-document-our-code",
-    "title": "Documentation",
-    "section": "Why should we document our code?",
-    "text": "Why should we document our code?\nGood documentation:\n\nhelps the intended audience understand the project using suitable language\nmakes the project accessible to a wider audience and improves transparency\nhelps to ensure the project is reusable and the results are reproducible\nsupports knowledge sharing and collaboration between team members\nmakes it easier for others to review the code and project as a whole, including spotting potential issues or improvements\nreduces the risk of knowledge loss when team members change\nprovides an audit trail and evidence that sufficient quality assurance has taken place",
-    "crumbs": [
-      "Playbook Home Page",
-      "Documentation"
-    ]
-  },
-  {
-    "objectID": "guidance/06-documented/index.html#how-do-we-create-and-maintain-quality-documentation",
-    "href": "guidance/06-documented/index.html#how-do-we-create-and-maintain-quality-documentation",
-    "title": "Documentation",
-    "section": "How do we create and maintain quality documentation?",
-    "text": "How do we create and maintain quality documentation?\nTreat documentation as an ongoing activity rather than a final task. The workflow below maps documentation to natural points in a project lifecycle:\n\nAt project outset set up the standard repository files using common filenames and formats, and agree who is responsible for each part of the documentation. Allocate time for documentation in your estimates.\nAs you code write comments to explain why decisions were made, not what the code does. Use standard docstrings for functions and modules, and consider tools that generate reference documentation automatically from these. Use simple language appropriate for your audience, adding extra documentation where the project is complex. For example, design documents, accessibility statements, or user help.\nWhen designs or decisions change update documentation at the point of change. Record the reasoning behind significant decisions so future maintainers understand the context.\nAsk peer reviewers and critical friends to assess documentation alongside code and outputs. Use this feedback to identify gaps.\nPractice continuous improvement by reflecting as a team on the quality of documentation and how it can be improved in future.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Documentation"
-    ]
   },
   {
     "objectID": "guidance/03-peer-reviewed/index.html",
@@ -269,116 +159,6 @@
     ]
   },
   {
-    "objectID": "guidance/05-modular/index.html",
-    "href": "guidance/05-modular/index.html",
-    "title": "Modular Code",
-    "section": "",
-    "text": "AF Duck book: Modular code\nNHSBSA DDaT playbook: Development - Coding",
-    "crumbs": [
-      "Playbook Home Page",
-      "Modular Code"
-    ]
-  },
-  {
-    "objectID": "guidance/05-modular/index.html#at-a-glance",
-    "href": "guidance/05-modular/index.html#at-a-glance",
-    "title": "Modular Code",
-    "section": "At a glance",
-    "text": "At a glance\nModular code is code that is broken down into smaller, independent, reusable chunks. This guide outlines the benefits of writing modular code and how to put it into practice within the NHSBSA.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Modular Code"
-    ]
-  },
-  {
-    "objectID": "guidance/05-modular/index.html#what-is-modular-code",
-    "href": "guidance/05-modular/index.html#what-is-modular-code",
-    "title": "Modular Code",
-    "section": "What is modular code?",
-    "text": "What is modular code?\nComplex analysis projects and workflows can often lead to a lot of code being written with some or a lot of that code performing repetitive tasks. Modular code is a way to break down that code into smaller, independent, reusable chunks (modules) that can be easily maintained and shared across a series of analyses.\nEach module should do one specific job and work with other modules through clear interfaces (known inputs, known outputs). You should be able to use a module without needing to know how it works inside.\nLanguages such as R, Python and SQL, and workflow tools like Alteryx provide ways to break up code into smaller logical units, including modules, classes, functions, macros, libraries, and packages.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Modular Code"
-    ]
-  },
-  {
-    "objectID": "guidance/05-modular/index.html#why-should-code-be-modular",
-    "href": "guidance/05-modular/index.html#why-should-code-be-modular",
-    "title": "Modular Code",
-    "section": "Why should code be modular?",
-    "text": "Why should code be modular?\nModular code:\n\nis better organised and easier to navigate\npromotes readability by preventing long, complex walls of code that are hard to understand\nminimises repetition, which reduces the risk of errors and inconsistencies\nreduces the likelihood of code conflicts when multiple team members are working on the same codebase\nsimplifies testing of the code and its outputs\nis easier to maintain or improve in future\nspeeds up the peer review process",
-    "crumbs": [
-      "Playbook Home Page",
-      "Modular Code"
-    ]
-  },
-  {
-    "objectID": "guidance/05-modular/index.html#how-do-we-write-modular-code",
-    "href": "guidance/05-modular/index.html#how-do-we-write-modular-code",
-    "title": "Modular Code",
-    "section": "How do we write modular code?",
-    "text": "How do we write modular code?\nA recommended workflow for producing modular code is:\n\nStart by splitting complex code into multiple ordered scripts grouped by concern. For example, data build, cleaning, analysis, visualisation. Organise scripts so that the intended run order is clear – this alone improves navigability and makes peer review easier.\nIdentify repetitive or reusable logic and extract it into functions. Keep functions small and focused on a single responsibility, with clear inputs and outputs.\nGroup related functions into modules. For example, a dedicated file or script for data validation helpers. If you find yourself scrolling endlessly to locate a particular piece of logic, that’s a signal to break it into smaller modules. Equally, if you need many tabs open just to follow a single change, you may have over-fragmented – aim for balance. Avoid overly complex solutions where simpler ones exist.\nAs the codebase matures, consider packaging related modules so they can be shared and reused across projects.\nStarting from monolithic code and refactoring incrementally is a valid strategy – you don’t need to get it right first time.\nSubmit for peer review, which will surface opportunities to improve structure that are hard to spot yourself.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Modular Code"
-    ]
-  },
-  {
-    "objectID": "guidance/02-tested/index.html",
-    "href": "guidance/02-tested/index.html",
-    "title": "Testing",
-    "section": "",
-    "text": "AF Duck book: Testing code\nNHSBSA DDaT playbook: Testing",
-    "crumbs": [
-      "Playbook Home Page",
-      "Testing"
-    ]
-  },
-  {
-    "objectID": "guidance/02-tested/index.html#at-a-glance",
-    "href": "guidance/02-tested/index.html#at-a-glance",
-    "title": "Testing",
-    "section": "At a glance",
-    "text": "At a glance\nAnalytical code should be tested to ensure it produces the correct output. This guide outlines the benefits of testing and how to put it into practice within the NHSBSA.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Testing"
-    ]
-  },
-  {
-    "objectID": "guidance/02-tested/index.html#what-is-testing",
-    "href": "guidance/02-tested/index.html#what-is-testing",
-    "title": "Testing",
-    "section": "What is testing?",
-    "text": "What is testing?\nTesting is the process of checking that the analytical code produces the correct output. Testing reduces the risk of errors, promotes confidence in our results and helps ensure the work is repeatable and reproducible.\nTesting should be applied throughout the analysis, from data processing and transformation, to the final outputs and results. Testing should be proportionate to the complexity and importance of the analysis, and should be applied in a risk-based way, with more testing applied to new, complex or business critical logic.\nOne of the most important aspects of testing is providing evidence of what has been tested, how it was tested, and the results. This can be done through a combination of documentation, manual tests and, where appropriate, automated tests.\n\nWhat is automated testing?\nIn software development workflows, testing and automated testing are often used interchangeably to mean the latter.\nAutomated testing means writing tests in code that run automatically. This approach is repeatable, gives quick feedback on changes, and catches issues early. However, it takes time to write and maintain, and isn’t always the best way to test everything.\nWe recommend combining manual and automated testing, using automated testing where it adds the most value.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Testing"
-    ]
-  },
-  {
-    "objectID": "guidance/02-tested/index.html#why-should-we-test-our-analysis",
-    "href": "guidance/02-tested/index.html#why-should-we-test-our-analysis",
-    "title": "Testing",
-    "section": "Why should we test our analysis?",
-    "text": "Why should we test our analysis?\nTesting is a fundamental part of quality assurance, helping to:\n\nverify that the code works as intended.\ncheck that the outputs of the analysis are correct and reproducible.\ncreate an audit trail which provides evidence that the analysis produces the correct output.\ncatch errors and bugs before the code is used to produce results.\ndocument how the code is intended to behave, promoting collaboration and reproducibility.\nact as a safety net when making changes or improvements.\nencourage more modular designs which are easier to test and maintain.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Testing"
-    ]
-  },
-  {
-    "objectID": "guidance/02-tested/index.html#how-do-we-test-our-analysis",
-    "href": "guidance/02-tested/index.html#how-do-we-test-our-analysis",
-    "title": "Testing",
-    "section": "How do we test our analysis?",
-    "text": "How do we test our analysis?\nWe recommend adopting a proportionate, risk-based approach with more focus on testing logic that is newer, more complex, or business critical. Your approach should be discussed with your team, critical friend, or peer reviewer to agree that it is in-line with the identified risk profile of the project.\n\nRoles and responsibilities\nTesting is a shared responsibility, and everyone involved in the analysis should be encouraged to contribute to testing:\n\nthe analyst writing the code should be responsible for writing and running tests to verify their code works as expected.\npeer reviewers should check the evidence that appropriate tests have been carried out including that the right things have been tested. They should also reproduce the test results as part of their review process.\nif you have a dedicated testing or quality assurance role, they should be responsible for overseeing the testing process, providing guidance and support to analysts and reviewers, and ensuring that testing is being done effectively across the team.\n\n\n\nRecommended workflow\nWe recommend the following workflow for testing analytical code:\n\nidentify the scenarios or behaviours you want to test. For example, this could be checking the result of a specific calculation or data transformation.\n\ndefine the inputs and expected outputs or behaviour. Tip: Test what the code should do, rather than how it does it.\nrun the code that you are testing and observe the results.\nassert that the code did what you expected it to do (usually comparing the actual output matches the expected output).\n(if needed) fix any errors or issues.\n(if needed) rerun the tests to verify that your code works as expected.\n\nThis workflow is the same whether you are manually testing (e.g. by directly comparing input and output files using excel) or automated testing using tests in code. Although the benefit of automated tests is that once you’ve written the test, these steps can be run over and over again with minimal effort.\nFor more detail on how to design your tests, including what to test, see this guide\n\n\nManual testing considerations\nManual testing can be a good option for simpler or one-off pieces of analyses, or for testing specific scenarios that are difficult to automate.\nWhen manually testing, it is important to document your tests and results, so that others can understand what has been tested and the outcomes. This can be done using a simple spreadsheet or word document, which includes the inputs, expected outputs, actual outputs and any notes on the test results. It should also include instructions on how to reproduce the result, including any set up steps or dependencies.\n\n\n\n\nAdditional guidance for automated testing\nIf you are producing analysis using code, you can take this approach further by using:\n\nestablished testing frameworks for the coding language you’re using\nautomated test execution to run tests automatically, especially as part of a continuous integration (CI) pipeline\n\nIt is important to make sure that new changes or bug fixes haven’t introduced new bugs in code that was already tested successfully. This is a good reason to automate as many tests as possible and regularly run them as a suite of tests.",
-    "crumbs": [
-      "Playbook Home Page",
-      "Testing"
-    ]
-  },
-  {
     "objectID": "guidance/01-version-controlled/index.html",
     "href": "guidance/01-version-controlled/index.html",
     "title": "Version Controlled",
@@ -456,18 +236,59 @@
     ]
   },
   {
-    "objectID": "accessibility.html",
-    "href": "accessibility.html",
-    "title": "Accessibility",
+    "objectID": "guidance/02-tested/index.html",
+    "href": "guidance/02-tested/index.html",
+    "title": "Testing",
     "section": "",
-    "text": "This accessibility statement applies to the NHSBSA Analytical Code Assurance Playbook website.\nThis website is run by the NHS Business Services Authority (NHSBSA). We want as many people as possible to be able to use this website. For example, that means you should be able to:\n\nzoom in up to 400% without the text spilling off the screen\nlisten to most of the website using a screen reader (including the most recent version of NVDA)\nnavigate most of the website using just a keyboard or speech recognition software (Dragon)\nchange colours, contrast levels and fonts using browser or device settings\n\nWe’ve also made the website text as simple as possible to understand.\nAbilityNet has advice on making your device easier to use if you have a disability.\n\n\nWe know some parts of this website are not fully accessible, as:\n\nnavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order\nzooming can only be done to a limited extent due to content becoming unviewable\nthe report has links to external PDF or Excel documents and websites which may have accessibility issues\n\n\n\n\nIf you need information on this website in a different format such as accessible PDF, large print, easy read, audio recording or braille, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nWe’ll consider your request and get back to you in 5 working days.\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nWe’re always looking to improve the accessibility of this website. If you find any problems that are not listed on this page or think we’re not meeting accessibility requirements, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nFor all queries not accessibility related, you can contact us by:\nEmail: dall@nhsbsa.nhs.uk\n\n\n\nThe Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’).\nIf you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).\n\n\n\nThe NHSBSA is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.\n\n\nThis website is partially compliant with the Web Content Accessibility Guidelines version 2.2 AA standard, due to the non-compliances listed below.\n\n\n\n\nThe content listed below is non-accessible for the following reasons.\n\n\nNavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order. This fails WCAG 2.2 success criterion 2.4.3 (Focus Order).\nZooming can only be done to a limited extent due to content becoming unviewable. This fails WCAG 2.2 success criterion 1.4.10 (Reflow).\nThe report has links to external PDF or Excel documents and websites which may have accessibility issues. This fails WCAG 2.2 success criteria 1.1.1 (Non-text Content), 1.3.1 (Info and Relationships) and 4.1.2 (Name, role, value).\nWe plan to fix these issues. When we publish new content, we’ll make sure it meets accessibility standards.\n\n\n\n\nWe’re committed to making sure this website is compliant to WCAG 2.2 ‘AA’ standard.\nOur accessibility compliance statement will be reviewed regularly. Every newly released website will be designed, built, and tested to meet ‘AA’ standards by default.\n\n\n\nThis statement was originally prepared on 16 April 2025. It was last reviewed on 16 April 2025.\nThis website was last tested on 16 April 2025 against the WCAG 2.2 AA standard.\nThe test was carried out by the NHSBSA test and development teams. The most viewed pages were tested using automated testing tools by our website team. A further audit of the website was carried out to the WCAG 2.2 AA standard.\nWe tested all the website screens to meet ‘AA’ WCAG 2.2 standards, using manual and automated tests.\nWe run each webpage through automated Wave, Lighthouse and Axe accessibility tools then manually test with screen readers (NVDA) and standards checklists. We run representative user journey tests through speech recognition software (Dragon).\nThese checklists contain standards that have been compiled using WCAG, the NHS service manual and the Government Digital Service (GDS) guidance."
+    "text": "AF Duck book: Testing code\nNHSBSA DDaT playbook: Testing",
+    "crumbs": [
+      "Playbook Home Page",
+      "Testing"
+    ]
   },
   {
-    "objectID": "accessibility.html#accessibility-statement-for-nhsbsa-analytical-code-assurance-playbook",
-    "href": "accessibility.html#accessibility-statement-for-nhsbsa-analytical-code-assurance-playbook",
-    "title": "Accessibility",
-    "section": "",
-    "text": "This accessibility statement applies to the NHSBSA Analytical Code Assurance Playbook website.\nThis website is run by the NHS Business Services Authority (NHSBSA). We want as many people as possible to be able to use this website. For example, that means you should be able to:\n\nzoom in up to 400% without the text spilling off the screen\nlisten to most of the website using a screen reader (including the most recent version of NVDA)\nnavigate most of the website using just a keyboard or speech recognition software (Dragon)\nchange colours, contrast levels and fonts using browser or device settings\n\nWe’ve also made the website text as simple as possible to understand.\nAbilityNet has advice on making your device easier to use if you have a disability.\n\n\nWe know some parts of this website are not fully accessible, as:\n\nnavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order\nzooming can only be done to a limited extent due to content becoming unviewable\nthe report has links to external PDF or Excel documents and websites which may have accessibility issues\n\n\n\n\nIf you need information on this website in a different format such as accessible PDF, large print, easy read, audio recording or braille, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nWe’ll consider your request and get back to you in 5 working days.\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nWe’re always looking to improve the accessibility of this website. If you find any problems that are not listed on this page or think we’re not meeting accessibility requirements, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nFor all queries not accessibility related, you can contact us by:\nEmail: dall@nhsbsa.nhs.uk\n\n\n\nThe Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’).\nIf you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).\n\n\n\nThe NHSBSA is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.\n\n\nThis website is partially compliant with the Web Content Accessibility Guidelines version 2.2 AA standard, due to the non-compliances listed below.\n\n\n\n\nThe content listed below is non-accessible for the following reasons.\n\n\nNavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order. This fails WCAG 2.2 success criterion 2.4.3 (Focus Order).\nZooming can only be done to a limited extent due to content becoming unviewable. This fails WCAG 2.2 success criterion 1.4.10 (Reflow).\nThe report has links to external PDF or Excel documents and websites which may have accessibility issues. This fails WCAG 2.2 success criteria 1.1.1 (Non-text Content), 1.3.1 (Info and Relationships) and 4.1.2 (Name, role, value).\nWe plan to fix these issues. When we publish new content, we’ll make sure it meets accessibility standards.\n\n\n\n\nWe’re committed to making sure this website is compliant to WCAG 2.2 ‘AA’ standard.\nOur accessibility compliance statement will be reviewed regularly. Every newly released website will be designed, built, and tested to meet ‘AA’ standards by default.\n\n\n\nThis statement was originally prepared on 16 April 2025. It was last reviewed on 16 April 2025.\nThis website was last tested on 16 April 2025 against the WCAG 2.2 AA standard.\nThe test was carried out by the NHSBSA test and development teams. The most viewed pages were tested using automated testing tools by our website team. A further audit of the website was carried out to the WCAG 2.2 AA standard.\nWe tested all the website screens to meet ‘AA’ WCAG 2.2 standards, using manual and automated tests.\nWe run each webpage through automated Wave, Lighthouse and Axe accessibility tools then manually test with screen readers (NVDA) and standards checklists. We run representative user journey tests through speech recognition software (Dragon).\nThese checklists contain standards that have been compiled using WCAG, the NHS service manual and the Government Digital Service (GDS) guidance."
+    "objectID": "guidance/02-tested/index.html#at-a-glance",
+    "href": "guidance/02-tested/index.html#at-a-glance",
+    "title": "Testing",
+    "section": "At a glance",
+    "text": "At a glance\nAnalytical code should be tested to ensure it produces the correct output. This guide outlines the benefits of testing and how to put it into practice within the NHSBSA.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Testing"
+    ]
+  },
+  {
+    "objectID": "guidance/02-tested/index.html#what-is-testing",
+    "href": "guidance/02-tested/index.html#what-is-testing",
+    "title": "Testing",
+    "section": "What is testing?",
+    "text": "What is testing?\nTesting is the process of checking that the analytical code produces the correct output. Testing reduces the risk of errors, promotes confidence in our results and helps ensure the work is repeatable and reproducible.\nTesting should be applied throughout the analysis, from data processing and transformation, to the final outputs and results. Testing should be proportionate to the complexity and importance of the analysis, and should be applied in a risk-based way, with more testing applied to new, complex or business critical logic.\nOne of the most important aspects of testing is providing evidence of what has been tested, how it was tested, and the results. This can be done through a combination of documentation, manual tests and, where appropriate, automated tests.\n\nWhat is automated testing?\nIn software development workflows, testing and automated testing are often used interchangeably to mean the latter.\nAutomated testing means writing tests in code that run automatically. This approach is repeatable, gives quick feedback on changes, and catches issues early. However, it takes time to write and maintain, and isn’t always the best way to test everything.\nWe recommend combining manual and automated testing, using automated testing where it adds the most value.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Testing"
+    ]
+  },
+  {
+    "objectID": "guidance/02-tested/index.html#why-should-we-test-our-analysis",
+    "href": "guidance/02-tested/index.html#why-should-we-test-our-analysis",
+    "title": "Testing",
+    "section": "Why should we test our analysis?",
+    "text": "Why should we test our analysis?\nTesting is a fundamental part of quality assurance, helping to:\n\nverify that the code works as intended.\ncheck that the outputs of the analysis are correct and reproducible.\ncreate an audit trail which provides evidence that the analysis produces the correct output.\ncatch errors and bugs before the code is used to produce results.\ndocument how the code is intended to behave, promoting collaboration and reproducibility.\nact as a safety net when making changes or improvements.\nencourage more modular designs which are easier to test and maintain.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Testing"
+    ]
+  },
+  {
+    "objectID": "guidance/02-tested/index.html#how-do-we-test-our-analysis",
+    "href": "guidance/02-tested/index.html#how-do-we-test-our-analysis",
+    "title": "Testing",
+    "section": "How do we test our analysis?",
+    "text": "How do we test our analysis?\nWe recommend adopting a proportionate, risk-based approach with more focus on testing logic that is newer, more complex, or business critical. Your approach should be discussed with your team, critical friend, or peer reviewer to agree that it is in-line with the identified risk profile of the project.\n\nRoles and responsibilities\nTesting is a shared responsibility, and everyone involved in the analysis should be encouraged to contribute to testing:\n\nthe analyst writing the code should be responsible for writing and running tests to verify their code works as expected.\npeer reviewers should check the evidence that appropriate tests have been carried out including that the right things have been tested. They should also reproduce the test results as part of their review process.\nif you have a dedicated testing or quality assurance role, they should be responsible for overseeing the testing process, providing guidance and support to analysts and reviewers, and ensuring that testing is being done effectively across the team.\n\n\n\nRecommended workflow\nWe recommend the following workflow for testing analytical code:\n\nidentify the scenarios or behaviours you want to test. For example, this could be checking the result of a specific calculation or data transformation.\n\ndefine the inputs and expected outputs or behaviour. Tip: Test what the code should do, rather than how it does it.\nrun the code that you are testing and observe the results.\nassert that the code did what you expected it to do (usually comparing the actual output matches the expected output).\n(if needed) fix any errors or issues.\n(if needed) rerun the tests to verify that your code works as expected.\n\nThis workflow is the same whether you are manually testing (e.g. by directly comparing input and output files using excel) or automated testing using tests in code. Although the benefit of automated tests is that once you’ve written the test, these steps can be run over and over again with minimal effort.\nFor more detail on how to design your tests, including what to test, see this guide\n\n\nManual testing considerations\nManual testing can be a good option for simpler or one-off pieces of analyses, or for testing specific scenarios that are difficult to automate.\nWhen manually testing, it is important to document your tests and results, so that others can understand what has been tested and the outcomes. This can be done using a simple spreadsheet or word document, which includes the inputs, expected outputs, actual outputs and any notes on the test results. It should also include instructions on how to reproduce the result, including any set up steps or dependencies.\n\n\n\n\nAdditional guidance for automated testing\nIf you are producing analysis using code, you can take this approach further by using:\n\nestablished testing frameworks for the coding language you’re using\nautomated test execution to run tests automatically, especially as part of a continuous integration (CI) pipeline\n\nIt is important to make sure that new changes or bug fixes haven’t introduced new bugs in code that was already tested successfully. This is a good reason to automate as many tests as possible and regularly run them as a suite of tests.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Testing"
+    ]
   },
   {
     "objectID": "index.html",
@@ -490,5 +311,191 @@
       "Playbook Home Page",
       "Home"
     ]
+  },
+  {
+    "objectID": "guidance/06-documented/index.html",
+    "href": "guidance/06-documented/index.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "AF Duck book: Code documentation\nAF Duck book: Project documentation\nNHSBSA DDaT playbook: Licensing software or code\nNHSBSA DDaT playbook: Standard code repository files",
+    "crumbs": [
+      "Playbook Home Page",
+      "Documentation"
+    ]
+  },
+  {
+    "objectID": "guidance/06-documented/index.html#at-a-glance",
+    "href": "guidance/06-documented/index.html#at-a-glance",
+    "title": "Documentation",
+    "section": "At a glance",
+    "text": "At a glance\nDocumentation is written information that explains what your analytical project does, why decisions were made, and how others can use and reproduce your work. This guide outlines the benefits of quality documentation and how to create and maintain it within the NHSBSA.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Documentation"
+    ]
+  },
+  {
+    "objectID": "guidance/06-documented/index.html#what-is-documentation",
+    "href": "guidance/06-documented/index.html#what-is-documentation",
+    "title": "Documentation",
+    "section": "What is documentation?",
+    "text": "What is documentation?\nDocumentation is written information that explains what your analytical project does, why decisions were made, and how others can use and reproduce your work.\nYou should document:\n\na project’s purpose and scope\nhow to setup the project and install any dependencies\nhow to configure, use and run the code, including analytical pipelines, dashboards or webapps\noutputs from running the code and how to interpret them\nassumptions and limitations, how they are implemented and how they affect results\nkey decisions and changes across a project lifecycle\nquality assurance logs",
+    "crumbs": [
+      "Playbook Home Page",
+      "Documentation"
+    ]
+  },
+  {
+    "objectID": "guidance/06-documented/index.html#why-should-we-document-our-code",
+    "href": "guidance/06-documented/index.html#why-should-we-document-our-code",
+    "title": "Documentation",
+    "section": "Why should we document our code?",
+    "text": "Why should we document our code?\nGood documentation:\n\nhelps the intended audience understand the project using suitable language\nmakes the project accessible to a wider audience and improves transparency\nhelps to ensure the project is reusable and the results are reproducible\nsupports knowledge sharing and collaboration between team members\nmakes it easier for others to review the code and project as a whole, including spotting potential issues or improvements\nreduces the risk of knowledge loss when team members change\nprovides an audit trail and evidence that sufficient quality assurance has taken place",
+    "crumbs": [
+      "Playbook Home Page",
+      "Documentation"
+    ]
+  },
+  {
+    "objectID": "guidance/06-documented/index.html#how-do-we-create-and-maintain-quality-documentation",
+    "href": "guidance/06-documented/index.html#how-do-we-create-and-maintain-quality-documentation",
+    "title": "Documentation",
+    "section": "How do we create and maintain quality documentation?",
+    "text": "How do we create and maintain quality documentation?\nTreat documentation as an ongoing activity rather than a final task. The workflow below maps documentation to natural points in a project lifecycle:\n\nAt project outset set up the standard repository files using common filenames and formats, and agree who is responsible for each part of the documentation. Allocate time for documentation in your estimates.\nAs you code write comments to explain why decisions were made, not what the code does. Use standard docstrings for functions and modules, and consider tools that generate reference documentation automatically from these. Use simple language appropriate for your audience, adding extra documentation where the project is complex. For example, design documents, accessibility statements, or user help.\nWhen designs or decisions change update documentation at the point of change. Record the reasoning behind significant decisions so future maintainers understand the context.\nAsk peer reviewers and critical friends to assess documentation alongside code and outputs. Use this feedback to identify gaps.\nPractice continuous improvement by reflecting as a team on the quality of documentation and how it can be improved in future.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Documentation"
+    ]
+  },
+  {
+    "objectID": "guidance/05-modular/index.html",
+    "href": "guidance/05-modular/index.html",
+    "title": "Modular Code",
+    "section": "",
+    "text": "AF Duck book: Modular code\nNHSBSA DDaT playbook: Development - Coding",
+    "crumbs": [
+      "Playbook Home Page",
+      "Modular Code"
+    ]
+  },
+  {
+    "objectID": "guidance/05-modular/index.html#at-a-glance",
+    "href": "guidance/05-modular/index.html#at-a-glance",
+    "title": "Modular Code",
+    "section": "At a glance",
+    "text": "At a glance\nModular code is code that is broken down into smaller, independent, reusable chunks. This guide outlines the benefits of writing modular code and how to put it into practice within the NHSBSA.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Modular Code"
+    ]
+  },
+  {
+    "objectID": "guidance/05-modular/index.html#what-is-modular-code",
+    "href": "guidance/05-modular/index.html#what-is-modular-code",
+    "title": "Modular Code",
+    "section": "What is modular code?",
+    "text": "What is modular code?\nComplex analysis projects and workflows can often lead to a lot of code being written with some or a lot of that code performing repetitive tasks. Modular code is a way to break down that code into smaller, independent, reusable chunks (modules) that can be easily maintained and shared across a series of analyses.\nEach module should do one specific job and work with other modules through clear interfaces (known inputs, known outputs). You should be able to use a module without needing to know how it works inside.\nLanguages such as R, Python and SQL, and workflow tools like Alteryx provide ways to break up code into smaller logical units, including modules, classes, functions, macros, libraries, and packages.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Modular Code"
+    ]
+  },
+  {
+    "objectID": "guidance/05-modular/index.html#why-should-code-be-modular",
+    "href": "guidance/05-modular/index.html#why-should-code-be-modular",
+    "title": "Modular Code",
+    "section": "Why should code be modular?",
+    "text": "Why should code be modular?\nModular code:\n\nis better organised and easier to navigate\npromotes readability by preventing long, complex walls of code that are hard to understand\nminimises repetition, which reduces the risk of errors and inconsistencies\nreduces the likelihood of code conflicts when multiple team members are working on the same codebase\nsimplifies testing of the code and its outputs\nis easier to maintain or improve in future\nspeeds up the peer review process",
+    "crumbs": [
+      "Playbook Home Page",
+      "Modular Code"
+    ]
+  },
+  {
+    "objectID": "guidance/05-modular/index.html#how-do-we-write-modular-code",
+    "href": "guidance/05-modular/index.html#how-do-we-write-modular-code",
+    "title": "Modular Code",
+    "section": "How do we write modular code?",
+    "text": "How do we write modular code?\nA recommended workflow for producing modular code is:\n\nStart by splitting complex code into multiple ordered scripts grouped by concern. For example, data build, cleaning, analysis, visualisation. Organise scripts so that the intended run order is clear – this alone improves navigability and makes peer review easier.\nIdentify repetitive or reusable logic and extract it into functions. Keep functions small and focused on a single responsibility, with clear inputs and outputs.\nGroup related functions into modules. For example, a dedicated file or script for data validation helpers. If you find yourself scrolling endlessly to locate a particular piece of logic, that’s a signal to break it into smaller modules. Equally, if you need many tabs open just to follow a single change, you may have over-fragmented – aim for balance. Avoid overly complex solutions where simpler ones exist.\nAs the codebase matures, consider packaging related modules so they can be shared and reused across projects.\nStarting from monolithic code and refactoring incrementally is a valid strategy – you don’t need to get it right first time.\nSubmit for peer review, which will surface opportunities to improve structure that are hard to spot yourself.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Modular Code"
+    ]
+  },
+  {
+    "objectID": "guidance/07-open-source/index.html",
+    "href": "guidance/07-open-source/index.html",
+    "title": "Open Source",
+    "section": "",
+    "text": "Open source code can be viewed, downloaded and used by anyone. This guide outlines the benefits of publishing analytical code as open source and how to do it within the NHSBSA.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "guidance/07-open-source/index.html#at-a-glance",
+    "href": "guidance/07-open-source/index.html#at-a-glance",
+    "title": "Open Source",
+    "section": "",
+    "text": "Open source code can be viewed, downloaded and used by anyone. This guide outlines the benefits of publishing analytical code as open source and how to do it within the NHSBSA.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "guidance/07-open-source/index.html#what-is-open-source",
+    "href": "guidance/07-open-source/index.html#what-is-open-source",
+    "title": "Open Source",
+    "section": "What is open source?",
+    "text": "What is open source?\nOpen source is a way of developing and distributing software. The code can be viewed, downloaded and used by anyone. Anyone can contribute to open source code (pending approval by the code owner via Pull Requests) which promotes collaboration across teams and organisations. Open source code is often hosted on platforms like GitHub, where it can be shared and collaborated on by a community of developers. Open source code is typically licensed under an open source licence, which specifies how others can use, modify and share the code.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "guidance/07-open-source/index.html#why-publish-analytical-code-as-open-source",
+    "href": "guidance/07-open-source/index.html#why-publish-analytical-code-as-open-source",
+    "title": "Open Source",
+    "section": "Why publish analytical code as open source?",
+    "text": "Why publish analytical code as open source?\nOpen source code:\n\nallows others to see how analyses are performed, increasing transparency and trust in results\nshows the workings behind published analyses (reports, data, dashboards, etc), making it easier to verify and reproduce results\nenables others to reuse code which increases value\nopen review and feedback help identify issues and improve code\nencourages collaboration and knowledge sharing across teams and organisations",
+    "crumbs": [
+      "Playbook Home Page",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "guidance/07-open-source/index.html#how-to-publish-analytical-code-openly",
+    "href": "guidance/07-open-source/index.html#how-to-publish-analytical-code-openly",
+    "title": "Open Source",
+    "section": "How to publish analytical code openly",
+    "text": "How to publish analytical code openly\nThere are two main routes to open-sourcing analytical code:\n\nWork in the open from the start: this is the ideal scenario which maximises the benefits from open-source, but it is usually only suitable when you are working on open, published datasets - for example, using data from the NHSBSA Open Data Portal.\nRetrospectively publish closed-source codebases: many of the datasets we analyse at the NHSBSA are not publicly available and so to protect sensitive and confidential data, we often work within secure internal environments. It is still recommended to retrospectively publish your analytical code, although this may need additional review (see below for details).\n\n\nPublishing workflow\nTo publish analytical code:\n\nInclude a file named LICENCE (British English spelling) with the complete licence text in your repository, not just a statement in the README.\nDocument your code and provide clear instructions for use, dependencies, and purpose. Ensure the code itself is written to be easy to understand and maintain, and include a CONTRIBUTE file to guide others who may want to contribute.\nHost your code on the NHSBSA Data Analytics GitHub.\nFollow NHSBSA policies and approval processes for open source coding.\nUse secret management systems and keep credentials out of repositories. Make sure you check the history as well as the current version of the codebase! See GOV.UK guidance.\nCheck for sensitive information: Ensure no personal, confidential, or proprietary data is included. Make sure you check the history as well as the current version of the codebase!\n\nSee the GOV.UK Service Manual and NHS Digital RAP Community guidance for detailed steps and best practices.\n\n\nRetrospective open sourcing\nThere are additional considerations if you are retrospectively open sourcing your code (after having developed it closed source).\n\nThe NHSBSA Retrospective Open Sourcing Guidance (only visible to internal NHSBSA colleagues).\nWhether you would benefit from using a ‘fit-for-publishing checklist’ to ensure your code is ready for release, including internal and external review steps. See the NHS Digital RAP Community Fit for publishing checklist.\n\n\n\nLicensing open code\nWhen publishing code or content openly, it is essential to include a clear licence to specify how others can use, modify, and share your work. Open code should include a LICENCE file, with a copyright notice where the year should reflect first publication, or a range if significantly updated.\nThe NHSBSA uses two types of licences, to serve different purposes:\n\nFor software/code use the Apache 2 Licence. This is generally the licence to use in the code repository via the LICENCE file.\nFor published content, documentation, and data use the Open Government Licence v3.0 (OGL v3). A link to the OGL v3 licence should be included in the footer or main documentation of published outputs. The NHSBSA uses a standard footer format which includes the appropriate licencing information and can be reused across NHSBSA products:\n\nRShiny reports and dashboards\nWebsites created using Markdown and Quarto (including this Playbook!)\nWebsites created using HTML and JavaScript\n\n\nFor more details on licencing, see the NHSBSA Digital Playbook.",
+    "crumbs": [
+      "Playbook Home Page",
+      "Open Source"
+    ]
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "This accessibility statement applies to the NHSBSA Analytical Code Assurance Playbook website.\nThis website is run by the NHS Business Services Authority (NHSBSA). We want as many people as possible to be able to use this website. For example, that means you should be able to:\n\nzoom in up to 400% without the text spilling off the screen\nlisten to most of the website using a screen reader (including the most recent version of NVDA)\nnavigate most of the website using just a keyboard or speech recognition software (Dragon)\nchange colours, contrast levels and fonts using browser or device settings\n\nWe’ve also made the website text as simple as possible to understand.\nAbilityNet has advice on making your device easier to use if you have a disability.\n\n\nWe know some parts of this website are not fully accessible, as:\n\nnavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order\nzooming can only be done to a limited extent due to content becoming unviewable\nthe report has links to external PDF or Excel documents and websites which may have accessibility issues\n\n\n\n\nIf you need information on this website in a different format such as accessible PDF, large print, easy read, audio recording or braille, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nWe’ll consider your request and get back to you in 5 working days.\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nWe’re always looking to improve the accessibility of this website. If you find any problems that are not listed on this page or think we’re not meeting accessibility requirements, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nFor all queries not accessibility related, you can contact us by:\nEmail: dall@nhsbsa.nhs.uk\n\n\n\nThe Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’).\nIf you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).\n\n\n\nThe NHSBSA is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.\n\n\nThis website is partially compliant with the Web Content Accessibility Guidelines version 2.2 AA standard, due to the non-compliances listed below.\n\n\n\n\nThe content listed below is non-accessible for the following reasons.\n\n\nNavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order. This fails WCAG 2.2 success criterion 2.4.3 (Focus Order).\nZooming can only be done to a limited extent due to content becoming unviewable. This fails WCAG 2.2 success criterion 1.4.10 (Reflow).\nThe report has links to external PDF or Excel documents and websites which may have accessibility issues. This fails WCAG 2.2 success criteria 1.1.1 (Non-text Content), 1.3.1 (Info and Relationships) and 4.1.2 (Name, role, value).\nWe plan to fix these issues. When we publish new content, we’ll make sure it meets accessibility standards.\n\n\n\n\nWe’re committed to making sure this website is compliant to WCAG 2.2 ‘AA’ standard.\nOur accessibility compliance statement will be reviewed regularly. Every newly released website will be designed, built, and tested to meet ‘AA’ standards by default.\n\n\n\nThis statement was originally prepared on 16 April 2025. It was last reviewed on 16 April 2025.\nThis website was last tested on 16 April 2025 against the WCAG 2.2 AA standard.\nThe test was carried out by the NHSBSA test and development teams. The most viewed pages were tested using automated testing tools by our website team. A further audit of the website was carried out to the WCAG 2.2 AA standard.\nWe tested all the website screens to meet ‘AA’ WCAG 2.2 standards, using manual and automated tests.\nWe run each webpage through automated Wave, Lighthouse and Axe accessibility tools then manually test with screen readers (NVDA) and standards checklists. We run representative user journey tests through speech recognition software (Dragon).\nThese checklists contain standards that have been compiled using WCAG, the NHS service manual and the Government Digital Service (GDS) guidance."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-statement-for-nhsbsa-analytical-code-assurance-playbook",
+    "href": "accessibility.html#accessibility-statement-for-nhsbsa-analytical-code-assurance-playbook",
+    "title": "Accessibility",
+    "section": "",
+    "text": "This accessibility statement applies to the NHSBSA Analytical Code Assurance Playbook website.\nThis website is run by the NHS Business Services Authority (NHSBSA). We want as many people as possible to be able to use this website. For example, that means you should be able to:\n\nzoom in up to 400% without the text spilling off the screen\nlisten to most of the website using a screen reader (including the most recent version of NVDA)\nnavigate most of the website using just a keyboard or speech recognition software (Dragon)\nchange colours, contrast levels and fonts using browser or device settings\n\nWe’ve also made the website text as simple as possible to understand.\nAbilityNet has advice on making your device easier to use if you have a disability.\n\n\nWe know some parts of this website are not fully accessible, as:\n\nnavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order\nzooming can only be done to a limited extent due to content becoming unviewable\nthe report has links to external PDF or Excel documents and websites which may have accessibility issues\n\n\n\n\nIf you need information on this website in a different format such as accessible PDF, large print, easy read, audio recording or braille, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nWe’ll consider your request and get back to you in 5 working days.\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nWe’re always looking to improve the accessibility of this website. If you find any problems that are not listed on this page or think we’re not meeting accessibility requirements, you can contact us by:\nEmail: accessibility@nhsbsa.nhs.uk\nThis email address is only for accessibility queries. It is not for technical queries or IT problems. If you have a query that is not about accessibility, go to the ‘Contact us’ section of this page.\n\n\n\nFor all queries not accessibility related, you can contact us by:\nEmail: dall@nhsbsa.nhs.uk\n\n\n\nThe Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’).\nIf you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).\n\n\n\nThe NHSBSA is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.\n\n\nThis website is partially compliant with the Web Content Accessibility Guidelines version 2.2 AA standard, due to the non-compliances listed below.\n\n\n\n\nThe content listed below is non-accessible for the following reasons.\n\n\nNavigation by tabbing does not always follow a left-to-right, top-to-bottom visual order. This fails WCAG 2.2 success criterion 2.4.3 (Focus Order).\nZooming can only be done to a limited extent due to content becoming unviewable. This fails WCAG 2.2 success criterion 1.4.10 (Reflow).\nThe report has links to external PDF or Excel documents and websites which may have accessibility issues. This fails WCAG 2.2 success criteria 1.1.1 (Non-text Content), 1.3.1 (Info and Relationships) and 4.1.2 (Name, role, value).\nWe plan to fix these issues. When we publish new content, we’ll make sure it meets accessibility standards.\n\n\n\n\nWe’re committed to making sure this website is compliant to WCAG 2.2 ‘AA’ standard.\nOur accessibility compliance statement will be reviewed regularly. Every newly released website will be designed, built, and tested to meet ‘AA’ standards by default.\n\n\n\nThis statement was originally prepared on 16 April 2025. It was last reviewed on 16 April 2025.\nThis website was last tested on 16 April 2025 against the WCAG 2.2 AA standard.\nThe test was carried out by the NHSBSA test and development teams. The most viewed pages were tested using automated testing tools by our website team. A further audit of the website was carried out to the WCAG 2.2 AA standard.\nWe tested all the website screens to meet ‘AA’ WCAG 2.2 standards, using manual and automated tests.\nWe run each webpage through automated Wave, Lighthouse and Axe accessibility tools then manually test with screen readers (NVDA) and standards checklists. We run representative user journey tests through speech recognition software (Dragon).\nThese checklists contain standards that have been compiled using WCAG, the NHS service manual and the Government Digital Service (GDS) guidance."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This Playbook has been developed by the NHSBSA to provide guidance for quality assuring code to produce analysis."
   }
 ]
